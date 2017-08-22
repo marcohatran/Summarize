@@ -7,8 +7,8 @@ In order to summarize image files, the program makes use of OpenCV to isolate te
 ### Running summarize
 
 To run summarize, enter `python summarize.py` followed by the following:
-- `--text text.txt` for text files
+- `--text your_text.txt` for text files
 - `--url https://yourlinkhere.com` for web sites
-- `--image img.jpg` for images
+- `--image your_img.jpg` for images
 
 Other input types are currently under development.
